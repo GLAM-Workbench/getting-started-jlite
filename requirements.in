@@ -1,3 +1,6 @@
 jupyterlite-core
 jupyterlab
 jupyterlite-pyodide-kernel
+requests
+altair
+pandas
